@@ -7,8 +7,8 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/PauseMenu.unity
     guid: ebe511aa6b936eb4f854c85d761346ab
   - enabled: 1
@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuScene.unity
     guid: 266488578e68bb041bdbc29338532743
+  - enabled: 1
+    path: Assets/Scenes/options_scene.unity
+    guid: d26bfd814ab19914ba266bbb657842bc
+  - enabled: 1
+    path: Assets/Scenes/Volume.unity
+    guid: 3512535b51485db439471df71ef440c2
   m_configObjects: {}
